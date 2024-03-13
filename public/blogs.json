@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://picsum.photos/200/300",
+      "title": "The Art of Programming",
+      "author": "John Smith",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://picsum.photos/seed/picsum/200/300",
+      "title": "Exploring the Universe",
+      "author": "Emily Johnson",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-12",
+      "reading_time": 20,
+      "hashtags": ["space", "science", "astronomy"]
+    },
+    {
+      "id": 3,
+      "cover": "https://picsum.photos/200/300.webp",
+      "title": "Healthy Living: A Guide",
+      "author": "David Lee",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-11",
+      "reading_time": 10,
+      "hashtags": ["health", "wellness", "nutrition"]
+    },
+    {
+      "id": 4,
+      "cover": "https://picsum.photos/200/300/?blur=2",
+      "title": "The History of Art",
+      "author": "Sophia Martinez",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-10",
+      "reading_time": 25,
+      "hashtags": ["art", "history", "culture"]
+    },
+    {
+      "id": 5,
+      "cover": "https://picsum.photos/id/237/200/300",
+      "title": "Cooking with Passion",
+      "author": "Michael Brown",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-09",
+      "reading_time": 30,
+      "hashtags": ["cooking", "recipes", "food"]
+    }
+  ]
+  
